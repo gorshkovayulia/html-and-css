@@ -17,3 +17,7 @@ p {
 p.greentea {
 	color: green;
 }
+
+em {
+    font-family: serif;
+}
